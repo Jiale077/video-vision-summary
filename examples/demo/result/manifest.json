@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "status": "ready_for_planning",
+  "title": "三个步骤，把视频变成有据可查的笔记",
+  "source": "项目原创静态演示（无音轨，字幕为配套说明）",
+  "vision_status": "not_reviewed",
+  "media": "../demo.mp4",
+  "duration_seconds": 18.0,
+  "transcript_backend": {
+    "provider": "supplied_transcript",
+    "file": "captions.vtt"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "key_segments": [
+    {
+      "start": 1,
+      "end": 5,
+      "reason": "核对字幕如何变成取证问题",
+      "expected_visuals": "字幕卡与取证问题"
+    },
+    {
+      "start": 7,
+      "end": 11,
+      "reason": "核对三次采样的时间与对应步骤",
+      "expected_visuals": "时间轴与三张帧卡"
+    },
+    {
+      "start": 13,
+      "end": 17,
+      "reason": "核对笔记中的三类信息",
+      "expected_visuals": "观点、证据、理解三列"
+    }
+  ]
+}

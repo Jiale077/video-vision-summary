@@ -1,0 +1,26 @@
+{
+  "vision_status": "not_reviewed",
+  "frames": [
+    {
+      "requested_seconds": 3.0,
+      "timestamp": "00:00:03.000",
+      "reason": "核对字幕如何变成取证问题",
+      "expected_visuals": "字幕卡与取证问题",
+      "file": "frames/frame-001-000003000.jpg"
+    },
+    {
+      "requested_seconds": 9.0,
+      "timestamp": "00:00:09.000",
+      "reason": "核对三次采样的时间与对应步骤",
+      "expected_visuals": "时间轴与三张帧卡",
+      "file": "frames/frame-002-000009000.jpg"
+    },
+    {
+      "requested_seconds": 15.0,
+      "timestamp": "00:00:15.000",
+      "reason": "核对笔记中的三类信息",
+      "expected_visuals": "观点、证据、理解三列",
+      "file": "frames/frame-003-000015000.jpg"
+    }
+  ]
+}
